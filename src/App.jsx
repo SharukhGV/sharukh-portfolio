@@ -1,8 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import CelestialRespiration from './projects/celestialrespiration'
 import DreamJournalBio from './projects/DreamJournalBio'
 import HiveHeaven from './projects/HiveHeaven'
 import IslamResearch from './projects/IslamResearch'
@@ -12,6 +10,7 @@ import SimplePlanner from './projects/SimplePlanner'
 import PursuitCalculator from './projects/PursuitCalculator'
 import RPIearthquake from './projects/RPIearthquake'
 import sharukhprofilepic from "./assets/sharukhprofilepic.png"
+import CelestialRespire from './projects/CelestialRespire'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -34,7 +33,7 @@ Beyond development, I thrive on bringing ideas to life through strategic plannin
 
    <div className='cardContainer'>
 
-<CelestialRespiration/>
+<CelestialRespire/>
 
 
 <HiveHeaven />

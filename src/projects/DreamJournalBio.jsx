@@ -30,6 +30,8 @@ function DreamJournalBio() {
           </div>
           <strong>Technologies Used</strong>
           <div>ElectronJS, LocalStorage</div>
+          <div>🚧 Working on repo spruce up 🚧</div>
+
         </div>
       </div></div>
     )

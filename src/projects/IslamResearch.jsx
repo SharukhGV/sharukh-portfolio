@@ -24,6 +24,8 @@ Frontend Repo      </a></button>
 
 <strong>Technologies Used</strong>
 <div>ElectronJS (desktop developement), Cordova (mobile development), JSON</div>
+<div>🚧 Working on deploying website 🚧</div>
+
 <br></br>
 </div></div></div>
     

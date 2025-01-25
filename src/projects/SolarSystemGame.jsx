@@ -20,7 +20,8 @@ Live Site      </a></button>
       </div>
 
       <p>Use your keyboard arrow keys to navigate the spaceship around our solar system</p>
-    
+      <div>🚧 Working on adding new features 🚧</div>
+
     </div>
     
     

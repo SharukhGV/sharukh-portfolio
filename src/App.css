@@ -58,8 +58,7 @@
   flex: 1 1 calc(33.33% - 16px); /* Default for 3 columns with spacing */
   max-width: calc(33.33% - 16px); /* Ensure proper sizing for 3 columns */
   box-sizing: border-box; /* Include padding/border in size calculations */
-  height: 270px;
-}
+padding: 10px;}
 
 /* .cardProject:hover {
   border: solid;

@@ -21,6 +21,8 @@ Desktop Repo      </a></button>
 
 <strong>Technologies Used</strong>
 <div>ElectronJS, LocalStorage</div>
+<div>🚧 Working on bar code scan feature bug, deploying website 🚧</div>
+
 <br></br>
 </div>
     
