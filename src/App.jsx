@@ -21,7 +21,7 @@ function App() {
 
 <img style={{width:"150px", height:"150px", borderRadius:"50%"}} src={sharukhprofilepic}></img>
 <br></br>
- <h2>Welcome to Sharukh's Professional Portfolio</h2>
+ <h2>Welcome to Sharukh's Portfolio</h2>
 
  <h3>About Me</h3>
  <h5>
@@ -55,7 +55,18 @@ Beyond development, I thrive on bringing ideas to life through strategic plannin
 <PursuitCalculator/>
 
 <RPIearthquake/>
-    </div></>
+    </div>
+        {/* <h3>Piano Hobbyist</h3>
+
+    <div className='cardContainer'>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Zr2_Wy-8Fsw?si=WNm3qAsYh7iZlWCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jWJMMlFIIgI?si=TQdiRGjjBGeB6BcG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    
+    </div> */}
+    </>
   )
 }
 

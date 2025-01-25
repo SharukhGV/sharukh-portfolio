@@ -4,7 +4,8 @@ function CelestialRespiration(){
 
 return(
 
-<div className="cardProject">
+<div id="celestialR" className="cardProject">
+    <div className="celestialOpacity">
 <h4>Celestial Respiration</h4>
 
 <div>
@@ -17,7 +18,7 @@ Live Site      </a></button>
 <strong>Technologies Used</strong>
 <div>Stripe API, LocalStorage</div>
 
-</div>
+</div></div>
 
 
 )

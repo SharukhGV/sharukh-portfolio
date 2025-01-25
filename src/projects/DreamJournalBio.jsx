@@ -1,12 +1,12 @@
 function DreamJournalBio() {
     return (
-      <div className="cardProject">
-        <div className="background-container">
+      <div id="dreamBio" className="cardProject">
+        {/* <div className="background-container">
           <div className="stars"></div>
           <div className="twinkling"></div>
           <div className="clouds"></div>
-        </div>
-        
+        </div> */}
+        <div className="dreamBioOpacity">
         <div className="content">
           <h4>Dream Journal Bio</h4>
           <div>
@@ -31,7 +31,7 @@ function DreamJournalBio() {
           <strong>Technologies Used</strong>
           <div>ElectronJS, LocalStorage</div>
         </div>
-      </div>
+      </div></div>
     )
   }
   
