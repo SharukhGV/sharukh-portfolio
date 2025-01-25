@@ -23,8 +23,16 @@ function App() {
 <br></br>
  <h2>Welcome to Sharukh's Professional Portfolio</h2>
 
+ <h3>About Me</h3>
+ <h5>
+I'm a creative and solutions-driven developer with a deep passion for combining technology and innovation to solve real-world problems. With experience spanning app development, game design, and astronomy-focused projects, I excel in crafting unique digital experiences that are both functional and impactful. I enjoy working on cutting-edge applications that merge science, interactivity, and user-friendly design, whether it's an astronomy-based card game, an Android app bridging communication gaps, or a React.js tool for environmental reporting.
 
-    <div className='cardContainer'>
+Beyond development, I thrive on bringing ideas to life through strategic planning, collaboration, and attention to detail. I love exploring new challenges, from making apps accessible and efficient to creating engaging educational content. Whether you're here to collaborate, learn, or connect, welcome to my corner of innovation!
+   </h5> 
+   
+      <h3>Software Development Projects</h3>
+
+   <div className='cardContainer'>
 
 <CelestialRespiration/>
 
