@@ -6,23 +6,26 @@ function IslamResearch(){
     return(
     
 <div id="islamResearch" className="cardProject">
+    <br></br>
+    <br></br>
     <div className="islamOpacity">
 <div className="content">
-<h4>Islam Research</h4>
-
+<strong>Islam Research</strong>
 <div>
+<br></br>
 
 <button><a href="" target="_blank" rel="noopener noreferrer">
-Live Site      </a></button>
+🗺️     </a></button>
 <span> </span>
 <button><a href="" target="_blank" rel="noopener noreferrer">
-Frontend Repo      </a></button>
+🌎    </a></button>
 
 
 
 </div>
-
+<br></br>
 <strong>Technologies Used</strong>
+<br></br>
 <div>ElectronJS (desktop developement), Cordova (mobile development), JSON</div>
 <div>🚧 Working on deploying website 🚧</div>
 
