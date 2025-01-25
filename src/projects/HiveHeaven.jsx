@@ -4,7 +4,8 @@ function HiveHeaven() {
 
     return (
 
-        <div className="cardProject">
+        <div id="hiveheaven" className="cardProject">
+            <div className="hiveOpacity">
             <h4>Hive of Heaven</h4>
             <div>
 
@@ -20,7 +21,7 @@ function HiveHeaven() {
             </div>
             <strong>Technologies Used</strong>
             <p>Location IQ for Reverse Geocoding, Google Maps API, Visible Planets API, USGS Eartquake API, Bcrypt for encrypting passwords, POstgreSQL, ExpressJS, NodeJS, React Vite JS  </p>
-        </div>
+        </div></div>
 
 
     )

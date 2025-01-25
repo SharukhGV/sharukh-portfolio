@@ -10,14 +10,20 @@ import SimplePOS from './projects/SimplePOS'
 import SolarSystemGame from './projects/SolarSystemGame'
 import SimplePlanner from './projects/SimplePlanner'
 import PursuitCalculator from './projects/PursuitCalculator'
-
+import RPIearthquake from './projects/RPIearthquake'
+import sharukhprofilepic from "./assets/sharukhprofilepic.png"
 function App() {
   const [count, setCount] = useState(0)
 
   return (
 
     <>
- <div>Welcome to Sharukh's Professional Portfolio</div>
+
+<img style={{width:"150px", height:"150px", borderRadius:"50%"}} src={sharukhprofilepic}></img>
+<br></br>
+ <h2>Welcome to Sharukh's Professional Portfolio</h2>
+
+
     <div className='cardContainer'>
 
 <CelestialRespiration/>
@@ -40,7 +46,7 @@ function App() {
 
 <PursuitCalculator/>
 
-
+<RPIearthquake/>
     </div></>
   )
 }
