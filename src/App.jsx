@@ -11,6 +11,7 @@ import PursuitCalculator from './projects/PursuitCalculator'
 import RPIearthquake from './projects/RPIearthquake'
 import sharukhprofilepic from "./assets/sharukhprofilepic.png"
 import CelestialRespire from './projects/CelestialRespire'
+import JeopardyImmigration from './projects/JeopardyImmigration'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -77,6 +78,8 @@ function App() {
 <PursuitCalculator/>
 
 <RPIearthquake/>
+
+<JeopardyImmigration/>
     </div>
         {/* <h3>Piano Hobbyist</h3>
 
