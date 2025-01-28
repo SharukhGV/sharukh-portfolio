@@ -3,7 +3,7 @@ import { useState } from 'react'
 import './App.css'
 import DreamJournalBio from './projects/DreamJournalBio'
 import HiveHeaven from './projects/HiveHeaven'
-import IslamResearch from './projects/IslamResearch'
+// import IslamResearch from './projects/IslamResearch'
 import SimplePOS from './projects/SimplePOS'
 import SolarSystemGame from './projects/SolarSystemGame'
 import SimplePlanner from './projects/SimplePlanner'
@@ -65,7 +65,7 @@ function App() {
 
 <SolarSystemGame />
 
-<IslamResearch />
+{/* <IslamResearch /> */}
 
 
 <SimplePOS />

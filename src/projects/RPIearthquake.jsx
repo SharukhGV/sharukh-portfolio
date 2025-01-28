@@ -14,10 +14,10 @@ function RPIearthquake() {
            
             <div>
  <br></br>
-                <button><a href="" target="_blank" rel="noopener noreferrer">
+                <button><a href="https://tremor-detector.netlify.app/" target="_blank" rel="noopener noreferrer">
                 🗺️      </a></button>
                 <span> </span>
-                <button><a href="" target="_blank" rel="noopener noreferrer">
+                <button><a href="https://github.com/SharukhGV/rpi-earthquake" target="_blank" rel="noopener noreferrer">
                 🌎      </a></button>
                 
 

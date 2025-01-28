@@ -8,7 +8,7 @@ function JeopardyImmigration() {
 
         <div className="cardProject">
             <br></br>
-            <strong>Jeopardy Naturalization Jeopardy 🚧</strong>
+            <strong>Jeopardy Naturalization 🚧</strong>
            
             <div><br></br >
 
