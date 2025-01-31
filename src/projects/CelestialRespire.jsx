@@ -9,7 +9,7 @@ function CelestialRespire(){
         <br></br>
         <div className="celestialOpacity">
         <div className="celestialcontent">
-        <strong>Celestial Respiration</strong>
+        <strong>Celestial Respiration (Mobile View)</strong>
     
     <div>
     <br></br>

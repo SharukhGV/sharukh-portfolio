@@ -10,7 +10,7 @@ function RPIearthquake() {
 
         <div className="cardProject">
             <br></br>
-            <strong>Raspberry Pi Tremor Detector 🚧</strong>
+            <strong>Raspberry Pi Tremor Detector</strong>
            
             <div>
  <br></br>
