@@ -12,6 +12,7 @@ import RPIearthquake from './projects/RPIearthquake'
 import sharukhprofilepic from "./assets/sharukhprofilepic.png"
 import CelestialRespire from './projects/CelestialRespire'
 import JeopardyImmigration from './projects/JeopardyImmigration'
+import NatureWalk from './projects/NatureWalk'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -75,9 +76,11 @@ function App() {
 
 <SimplePlanner />
 
-<PursuitCalculator/>
+{/* <PursuitCalculator/> */}
 
 <RPIearthquake/>
+
+<NatureWalk/>
 
 <JeopardyImmigration/>
     </div>
