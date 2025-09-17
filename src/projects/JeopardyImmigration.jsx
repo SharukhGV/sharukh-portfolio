@@ -8,6 +8,7 @@ function JeopardyImmigration() {
 
         <div className="cardProject">
             <br></br>
+            <br></br>
             <strong>Jeopardy Naturalization</strong>
            
             <div><br></br >
@@ -22,12 +23,9 @@ function JeopardyImmigration() {
                 🌐      </a></button> */}
 
             </div>
-            <br></br>
-            <strong>Technologies Used</strong>
-            <br></br>
-<p>CSS, ReactJS</p>
-<div>🚧 Working on implementing more questions 🚧</div>
-
+<p>ReactJs, CSS</p>  
+<div></div>        
+<p>Frontend</p>
         </div>
 
 

@@ -20,7 +20,7 @@ function DreamJournalBio() {
             </button>
             <span> </span>
             <button>
-              <a href="https://github.com/SharukhGV/simple-planner" target="_blank" rel="noopener noreferrer">
+              <a href="https://snapcraft.io/dream-journal-bio" target="_blank" rel="noopener noreferrer">
               🖥️
               </a>
             </button>
@@ -31,10 +31,10 @@ function DreamJournalBio() {
             </button>
           </div>
           <br></br>
-          <strong>Technologies Used</strong>
           <br></br>
           <div>ElectronJS, LocalStorage</div>
-          <div>🚧 Working on repo spruce up 🚧</div>
+          <div></div>
+          <div>Frontend</div>
 
         </div>
       </div></div>

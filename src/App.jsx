@@ -13,6 +13,9 @@ import sharukhprofilepic from "./assets/sharukhprofilepic.png"
 import CelestialRespire from './projects/CelestialRespire'
 import JeopardyImmigration from './projects/JeopardyImmigration'
 import NatureWalk from './projects/NatureWalk'
+import StarComparison from './projects/StarComparison'
+import IslamResearch from './projects/IslamResearch'
+import TelescopeMarket from './projects/TelescopeMarket'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -58,29 +61,26 @@ function App() {
 <br></br>
    <div className='cardContainer'>
 
-<CelestialRespire/>
+{/* <CelestialRespire/> */}
 
 
-<HiveHeaven />
-
+{/* <HiveHeaven /> */}
+<TelescopeMarket/>
 
 <SolarSystemGame />
 
 {/* <IslamResearch /> */}
 
-
-<SimplePOS />
+<StarComparison/>
 
 <DreamJournalBio/>
 
 
-<SimplePlanner />
+{/* <SimplePlanner /> */}
 
 {/* <PursuitCalculator/> */}
 
-<RPIearthquake/>
-
-<NatureWalk/>
+<IslamResearch />
 
 <JeopardyImmigration/>
     </div>
