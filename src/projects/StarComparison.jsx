@@ -7,17 +7,17 @@ export default function StarComparison(){
     
   <div className="cardProject">
 <br></br>
-    <strong>Star Comparison</strong>
+    <strong>Celestial Respiration</strong>
        <br></br>
 <br></br>
-      <button><a href="https://star-comparison.netlify.app/" target="_blank" rel="noopener noreferrer">
+      <button><a href="https://celestial-respiration.firebaseapp.com/" target="_blank" rel="noopener noreferrer">
       🗺️   </a></button>
   <br></br>
 <br></br>
-<div>Compare various star in the Universe with that of our own star, the Sun!</div>  
+<div>Online firebase hosting and databse game for two players</div>  
 <div></div>
 <p>Ai Generated Astrophysics Algorithms, ReactJS Vite</p>
-<p>Frontend</p>
+<div>🚧 Working on mobile view and some bugs 🚧</div>
 
     </div>
     
